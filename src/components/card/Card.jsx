@@ -5,9 +5,9 @@ const Card = () => {
 
   
   return (
-    <div className="pb-100 flex gap-15 mt-30" >
+    <div className="flex gap-15" >
       {data.map((item)=>
-      <div className="h-60 w-50 flex flex-col rounded-md overflow-hidden">
+      <div className="mt-10 h-60 w-50 flex flex-col rounded-md overflow-hidden">
         <img className="h-4/6 object-cover" src={item.url} alt="" srcset="" />
         <div>
           <h3 className="text-sm">{item.title}</h3>
