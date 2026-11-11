@@ -1,4 +1,4 @@
-# [Your Project Name Here]
+# [REACT BASICS BEGINNER FRIENDLY]
 
 summary of what your app does and what you are practicing or building.
 
